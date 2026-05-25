@@ -42,7 +42,7 @@ const PRODUCTS = [
     name: "Mat Daddy Tee",
     description: "Lightweight Cotton Tee — Black",
     price: 25.00,
-    image: "images/cotton_tee_logo",
+    image: "images/cotton_tee_logo.png",
     badge: "New",
     category: "Tee"
   },
