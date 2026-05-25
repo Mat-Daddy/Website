@@ -30,12 +30,12 @@ const PRODUCTS = [
   //
   // {
   //   id: 1,
-  //   name: "Mat Daddy Classic Tee",
-  //   description: "Heavyweight 100% cotton — Black",
+  //   name: "Mat Daddy Performance Tee",
+  //   description: "Lightweight Performance Tee — Black",
   //   price: 35.00,
-  //   image: "images/tee-black.jpg",
+  //   image: "images/performance_logo.png",
   //   badge: "New",
-  //   category: "tees"
+  //   category: "Performance"
   // },
   // {
   //   id: 2,
