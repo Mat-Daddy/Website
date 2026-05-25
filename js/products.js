@@ -28,15 +28,15 @@ const PRODUCTS = [
 
   // ✅ EXAMPLE — UNCOMMENT AND EDIT TO ADD YOUR FIRST PRODUCT:
   //
-  // {
-  //   id: 1,
-  //   name: "Mat Daddy Performance Tee",
-  //   description: "Lightweight Performance Tee — Black",
-  //   price: 35.00,
-  //   image: "images/performance_logo.png",
-  //   badge: "New",
-  //   category: "Performance"
-  // },
+  {
+    id: 1,
+    name: "Mat Daddy Performance Tee",
+    description: "Lightweight Performance Tee — Black",
+    price: 35.00,
+    image: "images/performance_logo.png",
+    badge: "New",
+    category: "Performance"
+  },
   // {
   //   id: 2,
   //   name: "Mat Daddy Hoodie",
