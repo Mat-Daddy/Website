@@ -37,15 +37,15 @@ const PRODUCTS = [
     badge: "New",
     category: "Performance"
   },
-  // {
-  //   id: 2,
-  //   name: "Mat Daddy Hoodie",
-  //   description: "Midweight pullover hoodie — Black",
-  //   price: 65.00,
-  //   image: "images/hoodie-black.jpg",
-  //   badge: "Hot",
-  //   category: "hoodies"
-  // },
+  {
+    id: 2,
+    name: "Mat Daddy Tee",
+    description: "Lightweight Cotton Tee — Black",
+    price: 25.00,
+    image: "images/cotton_tee_logo",
+    badge: "New",
+    category: "Tee"
+  },
 
 ];
 
